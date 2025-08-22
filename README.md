@@ -29,7 +29,7 @@
 <!--<p align="center"><b>AI/ROBOT Programmer</b></p>-->
 
 ---
-
+<!--
 ### 🎯 Hobbies
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-1abc9c?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Bicycle-f1c40f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motorcycle-2ecc71?style=for-the-badge" />
 </p>
-
+-->
 ---
 
 ### ⚡ Future Profession
