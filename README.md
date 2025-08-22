@@ -33,7 +33,7 @@
 ### 🎯 Hobbies
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-1abc9c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skateboarding-e74c3c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skate-e74c3c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Electric_Skateboard-8e44ad?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bicycle-f1c40f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motorcycle-2ecc71?style=for-the-badge" />
