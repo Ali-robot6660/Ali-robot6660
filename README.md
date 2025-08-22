@@ -1,6 +1,8 @@
-<h2 align="center">
-  Welcome to the GitHub account <b>Khujaev Qurbonali</b>
-</h2>
+<h1 align="center">
+  <span style="font-size: 60px; background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
+    Khujaev Qurbonali
+  </span>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/New%20GitHub%20Account-🚀-brightgreen?style=for-the-badge" />
@@ -10,23 +12,40 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robot%20Programmer-FF4500?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Robot%20Programmer-FF4500?style=for-the-badge&logo=robot&logoColor=white&labelColor=0A192F" />
+</p>
+
+---
+
+### 🎯 Hobbies
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/60/000000/skateboard.png" title="Skateboarding"/>
+  <img src="https://img.icons8.com/ios-filled/60/000000/electric-skateboard.png" title="Electric Skateboard"/>
+  <img src="https://img.icons8.com/ios-filled/60/000000/bicycle.png" title="Bicycle"/>
+  <img src="https://img.icons8.com/ios-filled/60/000000/motorbike.png" title="Motorcycle"/>
+  <img src="https://img.icons8.com/ios-filled/60/000000/code.png" title="Programming"/>
 </p>
 
 ---
 
 ### ⚡ Future Profession
 <p align="center">
-  🤖 Robot Programmer
+  <span style="font-size: 36px; background: linear-gradient(90deg, #00ffff, #ff00ff); -webkit-background-clip: text; color: transparent;">
+    🤖 AI / Robot Programmer
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Neon Robot" width="200"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-robot6660&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khujaevq&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 ---
