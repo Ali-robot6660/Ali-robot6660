@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Designer-FF69B4?style=flat&logo=figma&logoColor=white" />
 </p>
 
-<p align="center"><b>AI / Robot Programmer</b></p>
+<p align="center"><b>Programmer</b></p>
 
 ---
 
