@@ -12,33 +12,31 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Robot%20Programmer-FF4500?style=for-the-badge&logo=robot&logoColor=white&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&rounded=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&rounded=true" />
+</p>
+<p align="center">
+  <b>AI / Robot Programmer</b>
 </p>
 
 ---
 
 ### 🎯 Hobbies
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/60/000000/skateboard.png" title="Skateboarding"/>
-  <img src="https://img.icons8.com/ios-filled/60/000000/electric-skateboard.png" title="Electric Skateboard"/>
-  <img src="https://img.icons8.com/ios-filled/60/000000/bicycle.png" title="Bicycle"/>
-  <img src="https://img.icons8.com/ios-filled/60/000000/motorbike.png" title="Motorcycle"/>
-  <img src="https://img.icons8.com/ios-filled/60/000000/code.png" title="Programming"/>
+  <img src="https://img.icons8.com/ios/50/000000/skateboard.png" title="Skateboarding"/>
+  <img src="https://img.icons8.com/ios/50/000000/electric-skateboard.png" title="Electric Skateboard"/>
+  <img src="https://img.icons8.com/ios/50/000000/bicycle.png" title="Bicycle"/>
+  <img src="https://img.icons8.com/ios/50/000000/motorbike.png" title="Motorcycle"/>
+  <img src="https://img.icons8.com/ios/50/000000/code.png" title="Programming"/>
 </p>
 
 ---
 
 ### ⚡ Future Profession
 <p align="center">
-  <span style="font-size: 36px; background: linear-gradient(90deg, #00ffff, #ff00ff); -webkit-background-clip: text; color: transparent;">
-    🤖 AI / Robot Programmer
-  </span>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Neon Robot" width="200"/>
+  <img src="https://img.icons8.com/color/96/000000/robot.png" alt="Robot"/>
+  <br>
+  <b>AI / Robot Programmer</b>
 </p>
 
 ---
